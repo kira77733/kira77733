@@ -1,12 +1,12 @@
 # ⚡ Hi, I'm Kira (kira77733) 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=200&section=header&text=KIRA%2077733&fontSize=48&fontColor=fff&animation=twinkle&fontAlignY=38&desc=Software%20Developer%20%7C%20Windows%20Tools%20Creator&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=200&section=header&text=KIRA%2077733&fontSize=48&fontColor=fff&animation=twinkle&fontAlignY=38&desc=Software%20Developer%20%7C%20C%20%7C%20C%2B%2B%20%7C%20Java%20%7C%20Python%20%7C%20Web&descAlignY=58&descSize=16" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Passionate+Python+Developer;Building+System+Productivity+Tools;Always+Learning+%26+Building+Projects;Turning+Ideas+Into+Working+Code!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=C+%2F+C%2B%2B+%7C+Java+%7C+Python+Developer;Web+Technologies+(HTML5%2C+CSS3%2C+JavaScript);Building+System+Productivity+Tools;Always+Learning+%26+Crafting+Software!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,18 +20,19 @@
 
 ## ⚡ About Me
 
-- 👨‍💻 **Who am I:** Kira — Software & Desktop Utilities Developer
+- 👨‍💻 **Who am I:** Kira — Software, Systems & Web Developer
+- 💻 **Languages:** C, C++, Java, Python, HTML5, CSS3, JavaScript
 - 🚀 **Currently Building:** [Window Pinner Pro](https://github.com/kira77733/window-pinner-pro) (AOD Workspace Suite)
-- 🛠️ **Core Focus:** Python, CustomTkinter, Windows Win32 API & System Automation
-- 💡 **Mindset:** *"Turn real-world problems into clean, working desktop software."*
-- 🎯 **Goals:** Building high-performance open-source tools for developers and multitaskers
+- 🛠️ **Core Focus:** Desktop Utilities, System Logic, Windows API & Web Fundamentals
+- 💡 **Mindset:** *"Turn real-world problems into clean, working software."*
+- 🎯 **Goals:** Mastering software architecture and building high-performance developer tools
 
 ---
 
 ## 🛠️ Languages & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,vscode,git,github,windows,c,cpp,bash,markdown&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,vscode,git,github,windows,bash&theme=dark" />
 </p>
 
 ---
