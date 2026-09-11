@@ -20,15 +20,11 @@
 
 ## ⚡ About Me
 
-```javascript
-const developer = {
-    name: "Kira",
-    role: "Software & Desktop Utilities Developer",
-    currentProject: "Window Pinner Pro (AOD Workspace Suite)",
-    passions: ["Python", "Custom Tkinter", "Windows API Interop", "Automation"],
-    mindset: ["Never Stop Building", "Problem Solver", "Open Source Enthusiast"]
-};
-```
+- 👨‍💻 **Who am I:** Kira — Software & Desktop Utilities Developer
+- 🚀 **Currently Building:** [Window Pinner Pro](https://github.com/kira77733/window-pinner-pro) (AOD Workspace Suite)
+- 🛠️ **Core Focus:** Python, CustomTkinter, Windows Win32 API & System Automation
+- 💡 **Mindset:** *"Turn real-world problems into clean, working desktop software."*
+- 🎯 **Goals:** Building high-performance open-source tools for developers and multitaskers
 
 ---
 
